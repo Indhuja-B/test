@@ -1,7 +1,11 @@
 import React from "react";
 
 const title = () => {
-  const points: string[] = ["• Go to home", "• Return home"];
+  const points: string[] = [
+    "• Go to home",
+    "• Return home",
+    "stay Home Stay safe",
+  ];
 
   const points1 = [{ label: "• Go to home" }, { label: "• Return home" }];
 
